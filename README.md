@@ -1,3 +1,6 @@
+DEPLOYED THIS APP ON AWS AMPlIFY
+link https://master.d2vqrbd60h80or.amplifyapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
