@@ -1,6 +1,6 @@
 .App {
   background-image: linear-gradient(to right, #f9d423 0%, #ff4e50 100%);
-  height: 100vh;
+  height: auto;
   align-content: center;
   align-items: center;
 }
